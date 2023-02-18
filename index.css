@@ -1,0 +1,19 @@
+/* * {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+img:hover {
+  margin: auto auto;
+  /*  width: 30ww;
+  height: 30vh; 
+  border: 5px solid rgb(70, 17, 17);
+  cursor: pointer;
+  opacity: 0.5;
+}
+ */
